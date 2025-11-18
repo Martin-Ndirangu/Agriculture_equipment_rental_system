@@ -1,0 +1,22 @@
+2025-11-10 16:35:02 - Callback Received:
+{"Body":{"stkCallback":{"MerchantRequestID":"bb03-4c5e-808d-6e710e567c664348","CheckoutRequestID":"ws_CO_10112025183454892794503637","ResultCode":1032,"ResultDesc":"Request Cancelled by user."}}}
+
+2025-11-10 16:35:02 - Processing:
+MerchantRequestID: bb03-4c5e-808d-6e710e567c664348
+CheckoutRequestID: ws_CO_10112025183454892794503637
+ResultCode: 1032
+ResultDesc: Request Cancelled by user.
+
+2025-11-10 16:35:02 - Transaction failed: Request Cancelled by user.
+
+2025-11-10 16:38:16 - Callback Received:
+{"Body":{"stkCallback":{"MerchantRequestID":"9747-40dc-add0-a06576fe4bcf3109","CheckoutRequestID":"ws_CO_10112025183808695794503637","ResultCode":1032,"ResultDesc":"Request Cancelled by user."}}}
+
+2025-11-10 16:38:16 - Processing:
+MerchantRequestID: 9747-40dc-add0-a06576fe4bcf3109
+CheckoutRequestID: ws_CO_10112025183808695794503637
+ResultCode: 1032
+ResultDesc: Request Cancelled by user.
+
+2025-11-10 16:38:16 - Transaction failed: Request Cancelled by user.
+
